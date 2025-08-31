@@ -54,6 +54,7 @@ The aim is **not to reproduce the original publication**, but to showcase skills
 ├── notebook.ipynb         # Main analysis notebook
 ├── requirements.txt       # Python packages needed to run the notebook
 └── README.md              # Project overview
+```
 
 ## 🚀 Install Requirements
 
@@ -61,7 +62,7 @@ Install all packages used in this notebook with a single command:
 
 ```bash
 pip install -r requirements.txt
-
+```
     ⚠️ Note: Some packages may also include inline !pip install ... commands directly in notebook cells if needed.
 
 ## 📖 Dataset Information  
